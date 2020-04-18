@@ -1,0 +1,10 @@
+com\icorp\DAO\LoanDAO.class
+com\icorp\service\LoanServiceimp.class
+com\icorp\exception\RetrieveFailEx.class
+com\icorp\DAO\LoanDAOimp.class
+com\icorp\exception\InsersionFailEx.class
+com\icorp\exception\DeleteFailEx.class
+com\icorp\Entity\Loan.class
+com\icorp\exception\UpdateFailEx.class
+com\icorp\service\LoanService.class
+com\icorp\rest\LoanRestController.class
