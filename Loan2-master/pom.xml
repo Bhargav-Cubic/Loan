@@ -8,7 +8,7 @@
   <name>LS Maven Webapp</name>
   <url>http://maven.apache.org</url>
    <properties>
-		<spring.version>4.3.6.RELEASE</spring.version>
+		<spring.version>5.3.19</spring.version>
 		<hibernate.version>5.0.5.Final</hibernate.version>
 		<mysql.version>5.1.31</mysql.version>
 		<joda-time.version>2.3</joda-time.version>
